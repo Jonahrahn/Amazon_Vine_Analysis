@@ -1,5 +1,5 @@
 # Amazon_Vine_Analysis
-Amazon Product reviews to setermines the bias in the Automotive Section
+Amazon Product reviews to determine the bias in the Automotive Section
 
 
 ## Resources
